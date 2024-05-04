@@ -270,7 +270,7 @@
         "unbuildable": true,
         "uniques": [
             "Nullifies all other stats this tile provides",
-            "Doesn't generate naturally"
+            "Doesn©t generate naturally"
         ],
         "occursOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Hill","Flood plains","Marsh","Oasis"],
         "defenceBonus": -0.15
@@ -333,7 +333,7 @@
         "type": "TerrainFeature",
         "movementCost": 0,
         "uniques": [
-            "Doesn't generate naturally",
+            "Doesn©t generate naturally",
             "Excluded from map editor"
         ],
         "civilopediaText": [
@@ -608,7 +608,7 @@
  /*
     // BNW
     {
-        "name": "King Solomon's Mines",
+        "name": "King Solomon©s Mines",
         "type": "NaturalWonder",
         "production": 8,
         "overrideStats": true,
@@ -652,4 +652,3 @@
     }
 */
 ]
-    
